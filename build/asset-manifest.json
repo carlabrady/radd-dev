@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.79ef418d.css",
+    "main.js": "/static/js/main.05ffdacc.js",
+    "static/js/787.6e75c9de.chunk.js": "/static/js/787.6e75c9de.chunk.js",
+    "static/media/radd-foods-img.png": "/static/media/radd-foods-img.c26fab5b4162be15d2a6.png",
+    "index.html": "/index.html",
+    "main.79ef418d.css.map": "/static/css/main.79ef418d.css.map",
+    "main.05ffdacc.js.map": "/static/js/main.05ffdacc.js.map",
+    "787.6e75c9de.chunk.js.map": "/static/js/787.6e75c9de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79ef418d.css",
+    "static/js/main.05ffdacc.js"
+  ]
+}
